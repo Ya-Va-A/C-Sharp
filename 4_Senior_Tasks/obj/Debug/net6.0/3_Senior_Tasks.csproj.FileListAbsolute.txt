@@ -1,0 +1,16 @@
+/Users/mac/Documents/GB/Введение в программирование/Examples/4_Senior_Tasks/bin/Debug/net6.0/3_Senior_Tasks
+/Users/mac/Documents/GB/Введение в программирование/Examples/4_Senior_Tasks/bin/Debug/net6.0/3_Senior_Tasks.deps.json
+/Users/mac/Documents/GB/Введение в программирование/Examples/4_Senior_Tasks/bin/Debug/net6.0/3_Senior_Tasks.runtimeconfig.json
+/Users/mac/Documents/GB/Введение в программирование/Examples/4_Senior_Tasks/bin/Debug/net6.0/3_Senior_Tasks.dll
+/Users/mac/Documents/GB/Введение в программирование/Examples/4_Senior_Tasks/bin/Debug/net6.0/ref/3_Senior_Tasks.dll
+/Users/mac/Documents/GB/Введение в программирование/Examples/4_Senior_Tasks/bin/Debug/net6.0/3_Senior_Tasks.pdb
+/Users/mac/Documents/GB/Введение в программирование/Examples/4_Senior_Tasks/obj/Debug/net6.0/3_Senior_Tasks.GlobalUsings.g.cs
+/Users/mac/Documents/GB/Введение в программирование/Examples/4_Senior_Tasks/obj/Debug/net6.0/3_Senior_Tasks.csproj.AssemblyReference.cache
+/Users/mac/Documents/GB/Введение в программирование/Examples/4_Senior_Tasks/obj/Debug/net6.0/3_Senior_Tasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/GB/Введение в программирование/Examples/4_Senior_Tasks/obj/Debug/net6.0/3_Senior_Tasks.AssemblyInfoInputs.cache
+/Users/mac/Documents/GB/Введение в программирование/Examples/4_Senior_Tasks/obj/Debug/net6.0/3_Senior_Tasks.AssemblyInfo.cs
+/Users/mac/Documents/GB/Введение в программирование/Examples/4_Senior_Tasks/obj/Debug/net6.0/3_Senior_Tasks.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/GB/Введение в программирование/Examples/4_Senior_Tasks/obj/Debug/net6.0/3_Senior_Tasks.dll
+/Users/mac/Documents/GB/Введение в программирование/Examples/4_Senior_Tasks/obj/Debug/net6.0/ref/3_Senior_Tasks.dll
+/Users/mac/Documents/GB/Введение в программирование/Examples/4_Senior_Tasks/obj/Debug/net6.0/3_Senior_Tasks.pdb
+/Users/mac/Documents/GB/Введение в программирование/Examples/4_Senior_Tasks/obj/Debug/net6.0/3_Senior_Tasks.genruntimeconfig.cache

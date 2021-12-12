@@ -1,0 +1,6 @@
+/Users/mac/Documents/GB/Введение в программирование/WorkShop_24Nov/obj/Debug/net6.0/WorkShop_24Nov.GlobalUsings.g.cs
+/Users/mac/Documents/GB/Введение в программирование/WorkShop_24Nov/obj/Debug/net6.0/WorkShop_24Nov.csproj.AssemblyReference.cache
+/Users/mac/Documents/GB/Введение в программирование/WorkShop_24Nov/obj/Debug/net6.0/WorkShop_24Nov.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/GB/Введение в программирование/WorkShop_24Nov/obj/Debug/net6.0/WorkShop_24Nov.AssemblyInfoInputs.cache
+/Users/mac/Documents/GB/Введение в программирование/WorkShop_24Nov/obj/Debug/net6.0/WorkShop_24Nov.AssemblyInfo.cs
+/Users/mac/Documents/GB/Введение в программирование/WorkShop_24Nov/obj/Debug/net6.0/WorkShop_24Nov.csproj.CoreCompileInputs.cache

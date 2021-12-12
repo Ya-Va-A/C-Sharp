@@ -1,0 +1,16 @@
+/Users/mac/Documents/GB/Введение в программирование/Seminar_1/obj/Debug/net6.0/Seminar_1.GlobalUsings.g.cs
+/Users/mac/Documents/GB/Введение в программирование/Seminar_1/obj/Debug/net6.0/Seminar_1.csproj.AssemblyReference.cache
+/Users/mac/Documents/GB/Введение в программирование/Seminar_1/obj/Debug/net6.0/Seminar_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/GB/Введение в программирование/Seminar_1/obj/Debug/net6.0/Seminar_1.AssemblyInfoInputs.cache
+/Users/mac/Documents/GB/Введение в программирование/Seminar_1/obj/Debug/net6.0/Seminar_1.AssemblyInfo.cs
+/Users/mac/Documents/GB/Введение в программирование/Seminar_1/obj/Debug/net6.0/Seminar_1.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/GB/Введение в программирование/Seminar_1/bin/Debug/net6.0/Seminar_1
+/Users/mac/Documents/GB/Введение в программирование/Seminar_1/bin/Debug/net6.0/Seminar_1.deps.json
+/Users/mac/Documents/GB/Введение в программирование/Seminar_1/bin/Debug/net6.0/Seminar_1.runtimeconfig.json
+/Users/mac/Documents/GB/Введение в программирование/Seminar_1/bin/Debug/net6.0/Seminar_1.dll
+/Users/mac/Documents/GB/Введение в программирование/Seminar_1/bin/Debug/net6.0/ref/Seminar_1.dll
+/Users/mac/Documents/GB/Введение в программирование/Seminar_1/bin/Debug/net6.0/Seminar_1.pdb
+/Users/mac/Documents/GB/Введение в программирование/Seminar_1/obj/Debug/net6.0/Seminar_1.dll
+/Users/mac/Documents/GB/Введение в программирование/Seminar_1/obj/Debug/net6.0/ref/Seminar_1.dll
+/Users/mac/Documents/GB/Введение в программирование/Seminar_1/obj/Debug/net6.0/Seminar_1.pdb
+/Users/mac/Documents/GB/Введение в программирование/Seminar_1/obj/Debug/net6.0/Seminar_1.genruntimeconfig.cache

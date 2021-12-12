@@ -1,0 +1,16 @@
+/Users/mac/Documents/GB/Введение в программирование/ProfiCode/Task_005/obj/Debug/net6.0/Task_005.GlobalUsings.g.cs
+/Users/mac/Documents/GB/Введение в программирование/ProfiCode/Task_005/obj/Debug/net6.0/Task_005.csproj.AssemblyReference.cache
+/Users/mac/Documents/GB/Введение в программирование/ProfiCode/Task_005/obj/Debug/net6.0/Task_005.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/GB/Введение в программирование/ProfiCode/Task_005/obj/Debug/net6.0/Task_005.AssemblyInfoInputs.cache
+/Users/mac/Documents/GB/Введение в программирование/ProfiCode/Task_005/obj/Debug/net6.0/Task_005.AssemblyInfo.cs
+/Users/mac/Documents/GB/Введение в программирование/ProfiCode/Task_005/obj/Debug/net6.0/Task_005.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/GB/Введение в программирование/ProfiCode/Task_005/bin/Debug/net6.0/Task_005
+/Users/mac/Documents/GB/Введение в программирование/ProfiCode/Task_005/bin/Debug/net6.0/Task_005.deps.json
+/Users/mac/Documents/GB/Введение в программирование/ProfiCode/Task_005/bin/Debug/net6.0/Task_005.runtimeconfig.json
+/Users/mac/Documents/GB/Введение в программирование/ProfiCode/Task_005/bin/Debug/net6.0/Task_005.dll
+/Users/mac/Documents/GB/Введение в программирование/ProfiCode/Task_005/bin/Debug/net6.0/ref/Task_005.dll
+/Users/mac/Documents/GB/Введение в программирование/ProfiCode/Task_005/bin/Debug/net6.0/Task_005.pdb
+/Users/mac/Documents/GB/Введение в программирование/ProfiCode/Task_005/obj/Debug/net6.0/Task_005.dll
+/Users/mac/Documents/GB/Введение в программирование/ProfiCode/Task_005/obj/Debug/net6.0/ref/Task_005.dll
+/Users/mac/Documents/GB/Введение в программирование/ProfiCode/Task_005/obj/Debug/net6.0/Task_005.pdb
+/Users/mac/Documents/GB/Введение в программирование/ProfiCode/Task_005/obj/Debug/net6.0/Task_005.genruntimeconfig.cache

@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// Вывести квадрат числа
+int number = 3;
+int result = number * number; 
+Console.WriteLine(result);
+

@@ -1,0 +1,16 @@
+/Users/mac/Documents/GB/Введение в программирование/Examples/2_Junior_Tasks/obj/Debug/net6.0/2_Junior_Tasks.GlobalUsings.g.cs
+/Users/mac/Documents/GB/Введение в программирование/Examples/2_Junior_Tasks/obj/Debug/net6.0/2_Junior_Tasks.csproj.AssemblyReference.cache
+/Users/mac/Documents/GB/Введение в программирование/Examples/2_Junior_Tasks/obj/Debug/net6.0/2_Junior_Tasks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/GB/Введение в программирование/Examples/2_Junior_Tasks/obj/Debug/net6.0/2_Junior_Tasks.AssemblyInfoInputs.cache
+/Users/mac/Documents/GB/Введение в программирование/Examples/2_Junior_Tasks/obj/Debug/net6.0/2_Junior_Tasks.AssemblyInfo.cs
+/Users/mac/Documents/GB/Введение в программирование/Examples/2_Junior_Tasks/obj/Debug/net6.0/2_Junior_Tasks.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/GB/Введение в программирование/Examples/2_Junior_Tasks/bin/Debug/net6.0/2_Junior_Tasks
+/Users/mac/Documents/GB/Введение в программирование/Examples/2_Junior_Tasks/bin/Debug/net6.0/2_Junior_Tasks.deps.json
+/Users/mac/Documents/GB/Введение в программирование/Examples/2_Junior_Tasks/bin/Debug/net6.0/2_Junior_Tasks.runtimeconfig.json
+/Users/mac/Documents/GB/Введение в программирование/Examples/2_Junior_Tasks/bin/Debug/net6.0/2_Junior_Tasks.dll
+/Users/mac/Documents/GB/Введение в программирование/Examples/2_Junior_Tasks/bin/Debug/net6.0/ref/2_Junior_Tasks.dll
+/Users/mac/Documents/GB/Введение в программирование/Examples/2_Junior_Tasks/bin/Debug/net6.0/2_Junior_Tasks.pdb
+/Users/mac/Documents/GB/Введение в программирование/Examples/2_Junior_Tasks/obj/Debug/net6.0/2_Junior_Tasks.dll
+/Users/mac/Documents/GB/Введение в программирование/Examples/2_Junior_Tasks/obj/Debug/net6.0/ref/2_Junior_Tasks.dll
+/Users/mac/Documents/GB/Введение в программирование/Examples/2_Junior_Tasks/obj/Debug/net6.0/2_Junior_Tasks.pdb
+/Users/mac/Documents/GB/Введение в программирование/Examples/2_Junior_Tasks/obj/Debug/net6.0/2_Junior_Tasks.genruntimeconfig.cache
